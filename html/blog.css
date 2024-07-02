@@ -1,0 +1,50 @@
+/* html {
+    border: 5px;
+    color: lightgray;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 1000px;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    padding: 2em;
+}
+
+main {
+    padding: 2em;
+}
+
+footer {
+    padding: 2em;
+}
+
+h1 {
+    color: tomato;
+    size: 1em;
+}
+
+img {
+    width: 100%;
+}
+
+#topNav {
+    list-style-type: none;
+    display: flexbox;
+    justify-content: space-between;
+    color: lightgray;
+}
+
+#botNav {
+    color: tomato;
+}
+
+article {
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    border: 1px lightgray;
+} */
